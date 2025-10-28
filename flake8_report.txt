@@ -1,0 +1,2 @@
+inventory_system_updated.py:10:80: E501 line too long (89 > 79 characters)
+inventory_system_updated.py:94:11: W292 no newline at end of file
